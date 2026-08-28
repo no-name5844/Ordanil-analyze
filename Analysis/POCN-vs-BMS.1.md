@@ -1,81 +1,27 @@
-|POCN|non_BMS|
+|POCN,BOCF|BMS|
 |:--:|:--:|
-|$ 1 $|$ 1 $|
-|$ 2 $|$ 1\,1 $|
-|$ 3 $|$ 1\,1 \,1 $|
-|$ \omega $|$ 1\,2 $|
-|$ \omega^2 $|$ 1\,2\,2 $|
-|$ \omega^\omega $|$ 1\,2\,3 $|
-|$ \varepsilon_0 $|$ 1\,21 $|
-|$ \Omega $|$ 11 $|
-|$ \Omega+1 $|$ 11\,1 $|
-|$ \Omega2 $|$ 11\,11 $|
-|$ \Omega\omega $|$ 11\,2 $|
-|$ \Omega^2 $|$ 11\,21 $|
-|$ \varepsilon_{\Omega+1} $|$ 11\,22 $|
-|$ \psi_\alpha(\Omega_{\alpha+1}),\psi_\alpha(\Alpha) $|$ 111 $|
-|$ \psi_\alpha(\Alpha+1) $|$ 111\,2 $|
-|$ \psi_\alpha(\Alpha+\Omega) $|$ 111\,21 $|
-|$ \psi_\alpha(\Alpha+\psi_\alpha(\Alpha)) $|$ 111\,211 $|
-|$ \psi_\alpha(\Alpha+\alpha) $|$ 111\,22 $|
-|$ \psi_\alpha(\Alpha2) $|$ 111\,221 $|
-|$ \psi_\alpha(\Alpha2+1) $|$ 111\,221\,2 $|
-|$ \psi_\alpha(\Alpha2+\Omega) $|$ 111\,221\,21 $|<!--$111\,221\,22=111\,221\,211\,321\,311\,421...$  -->
-|$ \psi_\alpha(\Alpha2+\psi_\alpha(A)) $|$ 111\,221\,211 $|
-|$ \psi_\alpha(\Alpha2+\psi_\alpha(\Alpha2)) $|$ 111\,221\,211\,321 $|
-|$ \psi_\alpha(\Alpha2+\alpha) $|$ 111\,221\,22 $|
-|$ \psi_\alpha(\Alpha3) $|$ 111\,221\,221 $|
-|$ \psi_\alpha(\Alpha\omega) $|$ 111\,221\,3 $|
-|$ \psi_\alpha(\Alpha\Omega) $|$ 111\,221\,31 $|
-|$ \psi_\alpha(\Alpha\psi_\alpha(\Alpha)) $|$ 111\,221\,311 $|
-|$ \psi_\alpha(\Alpha\alpha) $|$ 111\,221\,32 $|
-|$ \psi_\alpha(\Alpha^2) $|$ 111\,221\,321 $|
-|$ \psi_\alpha(\alpha_2) $|$ 111\,221\,33 $|
-|$ \psi_\alpha(\Alpha_2) $|$ 111\,221\,331 $|
-|$ \psi_\alpha(\Alpha_2+\Alpha) $|$ 111\,221\,331\,221 $|
-|$ \psi_\alpha(\Alpha_2+\psi_{\alpha_2}(\Alpha_2)) $|$ 111\,221\,331\,221\,331 $|
-|$ \psi_\alpha(\Alpha_2+\psi_{\alpha_2}(\Alpha_2+1)) $|$ 111\,221\,331\,3 $|
-|$ \psi_\alpha(\Alpha_2+\alpha_2)  $|$ 111\,221\,331\,33 $|
-|$ \psi_\alpha(\Alpha_22) $|$ 111\,221\,331\,331 $|
-|$ \psi_\alpha(\Alpha_2\omega) $|$ 111\,221\,331\,4 $|
-|$ \psi_\alpha(\alpha_3) $|$ 111\,221\,331\,44 $|
-|$ \psi_\alpha(\Alpha_3) $|$ 111\,221\,331\,441 $|
-|$ \psi_\alpha(\alpha_\omega) $|$ 111\,222 $|
-|$ \psi_\alpha(\alpha_\omega+\Alpha) $|$ 111\,222\,221 $|
-|$ \psi_\alpha(\alpha_\omega+\psi_{\alpha_2}(\alpha_2)) $|$ 111\,222\,221\,33 $|
-|$ \psi_\alpha(\alpha_\omega+\psi_{\alpha_2}(\alpha_\omega)) $|$ 111\,222\,221\,332 $|
-|$ \psi_\alpha(\alpha_\omega+\alpha_2) $|$ 111\,222\,221\,332\,331 $|
-|$ \psi_\alpha(\alpha_\omega2) $|$ 111\,222\,222 $|
-|$ \psi_\alpha(\alpha_\omega\omega) $|$ 111\,222\,3 $|
-|$ \psi_\alpha(\alpha_\omega\alpha) $|$ 111\,222\,32 $|
-|$ \psi_\alpha(\alpha_\omega^2) $|$ 111\,222\,32\,222 $|
-|$ \psi_\alpha(\Alpha_\omega) $|$ 111\,222\,321$|
-|$ \psi_\alpha(\alpha_{\omega^2}) $|$ 111\,222\,322 $|
-|$ \psi_\alpha(\alpha_{\omega^3}) $|$ 111\,222\,322\,322 $|
-|$ \psi_S(\sigma S+S_{\omega^\omega}) $|$ 111\,222\,322\,4 $| 
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*S)) $|$ 111\,222\,322\,42 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*S_\omega)) $|$ 111\,222\,322\,42\,222 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\sigma S)) $|$ 111\,222\,322\,42\,3 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S))) $|$ 111\,222\,322\,42\,322\,42\,3 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2))) $|$ 111\,222\,322\,421 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2+1))) $|$ 111\,222\,322\,421\,322 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2+\psi_{S_{\sigma S+1}}(\sigma S_2+1)))) $|$ 111\,222\,322\,421\,5 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2+\psi_{S_{\sigma S+1}}(\sigma S_2+\sigma S)))) $|$ 111\,222\,322\,421\,52\,3 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2+\psi_{S_{\sigma S+1}}(\sigma S_2+\psi_{S_{\sigma S+1}}(\sigma S_2))))) $|$ 111\,222\,322\,421\,521 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2+S_{\sigma S+1}))) $|$ 111\,222\,322\,421\,53 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2+\psi_{S_{\sigma S+2}}(\sigma S_2)))) $|$ 111\,222\,322\,421\,531 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2+S_{\sigma S+\omega}))) $|$ 111\,222\,322\,421\,532 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}^2)) $|$ 111\,222\,322\,422 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(\sigma S_2)) $|$ 111\,222\,33 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(\psi_{S_{\sigma S_2+1}}(\sigma S_3))) $|$ 111\,222\,331 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1})) $|$ 111\,222\,331\,44 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(\psi_{S_{\sigma S_2+1}}(S_{\sigma S_2+1})+1))) $|$ 111\,222\,331\,44\,322 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(\psi_{S_{\sigma S_2+1}}(S_{\sigma S_2+1})+\sigma S))) $|$ 111\,222\,331\,44\,322\,42\,3 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(\psi_{S_{\sigma S_2+1}}(S_{\sigma S_2+1})+S_{\sigma S+1}))) $|$ 111\,222\,331\,44\,322\,422 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(\psi_{S_{\sigma S_2+1}}(S_{\sigma S_2+1})2))) $|$ 111\,222\,331\,44\,322\,43 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(\psi_{S_{\sigma S_2+1}}(S_{\sigma S_2+1}+1)))) $|$ 111\,222\,331\,44\,322\,43\,5 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(\psi_{S_{\sigma S_2+1}}(S_{\sigma S_2+1}+\psi_{S_{\sigma S_2+1}}(\sigma S_3))))) $|$ 111\,222\,331\,44\,322\,431 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(S_{\sigma S_2+1}))) $|$ 111\,222\,331\,44\,33 $|
+|$ \psi_S(0),\psi(0) $|$ 0 $|
+|$ \psi_S(1),\psi(1) $|$ 0\,1 $|
+|$ \psi_S(2),\psi(2) $|$ 0\,1\,1 $|
+|$ \psi_S(\psi_S(0)),\psi(\psi(0)) $|$ 0\,1\,2 $|
+|$ \psi_S(\psi_S(\psi_S(0))),\psi(\psi(\psi(0))) $|$ 0\,1\,2\,3 $|
+|$ \psi_S(S),\psi(\Omega) $|$ 0\,11 $|
+|$ \psi_S(S+1),\psi(\Omega+1) $|$ 0\,11\,1 $|
+|$ \psi_S(S+\psi_S(S)),\psi(\Omega+\psi(\Omega)) $|$ 0\,11\,1\,21 $|
+|$ \psi_S(S2),\psi(\Omega2) $|$ 0\,11\,11 $|
+|$ \psi_S(S\omega),\psi(\Omega\omega) $|$ 0\,11\,2 $|
+|$ \psi_S(S^2),\psi(\Omega^2) $|$ 0\,11\,21 $|
+|$ \psi_S(S^3),\psi(\Omega^3) $|$ 0\,11\,21\,21 $|
+|$ \psi_S(S^\omega),\psi(\Omega^\omega) $|$ 0\,11\,21\,3 $|
+|$ \psi_S(S^S),\psi(\Omega^\Omega) $|$ 0\,11\,21\,31 $|
+|$ \psi_S(S_2),\psi(\Omega_2) $|$ 0\,11\,22 $|
+|$ \psi_S(S_2^{S_2}),\psi(\Omega_2^{\Omega_2}) $|$ 0\,11\,22\,32 $|
+|$ \psi_S(S_3),\psi(\Omega_3) $|$ 0\,11\,22\,33 $|
+|$ \psi_S(S_\omega),\psi(\Omega_\omega) $|$ 0\,111 $|
+|$ \psi_S(S_\omega\omega),\psi(\Omega_\omega\omega) $|$ 0\,111\,2 $|
+|$ \psi_S(S_\omega S),\psi(\Omega_\omega\Omega) $|$ 0\,111\,21 $|
+|$ \psi_S(S_\omega S+S),\psi(\Omega_\omega\Omega+\Omega) $|$ 0\,111\,21\,11 $|
+|$ \psi_S(S_\omega S+\psi_{S_2}(S_\omega S)),\psi(\Omega_\omega\Omega+\psi_1(\Omega_\omega\Omega)) $|$ 0\,111\,21\,11\,221\,31 $|
 |$  $|$  $|
 |$  $|$  $|
 |$  $|$  $|
@@ -96,15 +42,6 @@
 |$  $|$  $|
 |$  $|$  $|
 |$  $|$  $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}()) $|$ 111\,222\,331\,442 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}()) $|$ 111\,222\,331\,442\,542\,6 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}()) $|$ 111\,222\,331\,442\,551 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(\sigma S_2)) $|$ 111\,222\,332 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1})) $|$ 111\,222\,332\,442 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}\omega)) $|$ 111\,222\,333 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}\omega^2)) $|$ 111\,222\,333\,433 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_3+1}\omega)) $|$ 111\,222\,333\,443 $|
-
 |$  $|$  $|
 |$  $|$  $|
 |$  $|$  $|
@@ -114,17 +51,79 @@
 |$  $|$  $|
 |$  $|$  $|
 |$  $|$  $|
-|$ \psi_S(\sigma S2) $|$ 1111 $|
-|$ \psi_S(\sigma S2+\psi_S(\sigma S)) $|$ 1111\,211 $|
-|$ \psi_S(\sigma S2+\psi_S(\sigma S2)) $|$ 1111\,2111 $|
-|$ \psi_S(\sigma S2+S) $|$ 1111\,2\,31 $|
-|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S)) $|$ 1111\,211 $|
-|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+\psi_{S_2}(\sigma S+1))) $|$ 1111\,211\,3 $|
-|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+\psi_{S_2}(\sigma S+\psi_{S_2}(\sigma S+1)))) $|$ 1111\,211\,311 $|
-|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+S_2)) $|$ 1111\,211\,32 $|
-|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+S_\omega)) $|$ 1111\,211\,322 $|
-|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}\omega))) $|$ 1111\,211\,322\,433 $|
-|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+\psi_{\sigma S}(\sigma S_\omega))) $|$ 1111\,211\,3221 $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
 |$  $|$  $|
 |$  $|$  $|
 |$  $|$  $|
