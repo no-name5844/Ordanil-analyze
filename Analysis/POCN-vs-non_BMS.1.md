@@ -76,55 +76,54 @@
 |$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(\psi_{S_{\sigma S_2+1}}(S_{\sigma S_2+1}+1)))) $|$ 111\,222\,331\,44\,322\,43\,5 $|
 |$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(\psi_{S_{\sigma S_2+1}}(S_{\sigma S_2+1}+\psi_{S_{\sigma S_2+1}}(\sigma S_3))))) $|$ 111\,222\,331\,44\,322\,431 $|
 |$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(S_{\sigma S_2+1}))) $|$ 111\,222\,331\,44\,33 $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}()) $|$ 111\,222\,331\,442 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}()) $|$ 111\,222\,331\,442\,542\,6 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}()) $|$ 111\,222\,331\,442\,551 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(\sigma S_2)) $|$ 111\,222\,332 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1})) $|$ 111\,222\,332\,442 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}\omega)) $|$ 111\,222\,333 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}\omega^2)) $|$ 111\,222\,333\,433 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_3+1}\omega)) $|$ 111\,222\,333\,443 $|
-
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
+|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{S_{\sigma S_2+1}}(\sigma S_3))) $|$ 111\,222\,331\,44\,331 $|
+|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}2)) $|$ 111\,222\,331\,44\,44 $|
+|$ \psi_S(\sigma S+\psi_{\sigma S}(\psi_{S_{\sigma S_3+1}}(\sigma S_4))) $|$ 111\,222\,331\,441 $|
+|$ \psi_S(\sigma S+\psi_{\sigma S}(\sigma S_\omega)) $|$ 111\,222\,332 $|
+|$ \psi_S(\sigma S+\psi_{\sigma S}(\sigma^2 S)) $|$ 111\,222\,333 $|
+|$ \psi_S(\sigma S+\psi_{\sigma S}(\sigma^\omega S)) $|$ 111\,2221 $|
 |$ \psi_S(\sigma S2) $|$ 1111 $|
 |$ \psi_S(\sigma S2+\psi_S(\sigma S)) $|$ 1111\,211 $|
 |$ \psi_S(\sigma S2+\psi_S(\sigma S2)) $|$ 1111\,2111 $|
-|$ \psi_S(\sigma S2+S) $|$ 1111\,2\,31 $|
-|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S)) $|$ 1111\,211 $|
-|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+\psi_{S_2}(\sigma S+1))) $|$ 1111\,211\,3 $|
+|$ \psi_S(\sigma S2+S) $|$ 1111\,22 $|
+|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S)) $|$ 1111\,221 $|
+|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+\psi_{S_2}(\sigma S+1))) $|$ 1111\,221\,3 $|
 |$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+\psi_{S_2}(\sigma S+\psi_{S_2}(\sigma S+1)))) $|$ 1111\,211\,311 $|
-|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+S_2)) $|$ 1111\,211\,32 $|
-|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+S_\omega)) $|$ 1111\,211\,322 $|
-|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}\omega))) $|$ 1111\,211\,322\,433 $|
-|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+\psi_{\sigma S}(\sigma S_\omega))) $|$ 1111\,211\,3221 $|
+|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+S_2)) $|$ 1111\,221\,32 $|
+|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+S_\omega)) $|$ 1111\,221\,322 $|
+|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+\psi_{\sigma S}(\sigma S_{\sigma^2 S+1}\omega))) $|$ 1111\,221\,322\,433 $|
+|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S+\psi_{\sigma S}(\sigma^\omega S))) $|$ 1111\,221\,3221 $|
+|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S2)) $|$ 1111\,2211 $|
+|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S2+1)) $|$ 1111\,2211\,3 $|
+|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S2+\psi_{S_2}(\sigma S))) $|$ 1111\,2211\,31 $|
+|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S2+\psi_{S_2}(\sigma S+\psi_{S_2}(\sigma S)))) $|$ 1111\,2211\,311 $|
+|$ \psi_S(\sigma S2+\psi_{S_2}(\sigma S2+\psi_{S_2}(\sigma S2))) $|$ 1111\,2211\,3111 $|
+|$ \psi_S(\sigma S2+S_2) $|$ 1111\,2211\,32 $|
+|$ \psi_S(\sigma S2+\psi_{S_3}(\sigma S)) $|$ 1111\,2211\,321 $|
+|$ \psi_S(\sigma S2+\psi_{S_3}(\sigma S2)) $|$ 1111\,2211\,3211 $|
+|$ \psi_S(\sigma S2+S_3) $|$ 1111\,2211\,33 $|
+|$ \psi_S(\sigma S2+S_\omega) $|$ 1111\,2211\,33 $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
+|$  $|$  $|
 |$  $|$  $|
 |$  $|$  $|
 |$  $|$  $|

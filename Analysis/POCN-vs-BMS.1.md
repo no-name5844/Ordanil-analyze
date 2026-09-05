@@ -22,26 +22,26 @@
 |$ \psi_S(S_\omega S),\psi(\Omega_\omega\Omega) $|$ 0\,111\,21 $|
 |$ \psi_S(S_\omega S+S),\psi(\Omega_\omega\Omega+\Omega) $|$ 0\,111\,21\,11 $|
 |$ \psi_S(S_\omega S+\psi_{S_2}(S_\omega S)),\psi(\Omega_\omega\Omega+\psi_1(\Omega_\omega\Omega)) $|$ 0\,111\,21\,11\,221\,31 $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
-|$  $|$  $|
+|$ \psi_S(S_\omega S+\psi_{S_2}(S_\omega S+S)),\psi(\Omega_\omega\Omega+\psi_1(\Omega_\omega\Omega+\Omega))  $|$ 0\,111\,21\,11\,221\,31\,21  $|
+|$ \psi_S(S_\omega S+S_2),\psi(\Omega_\omega\Omega+\Omega_2) $|$ 0\,111\,21\,11\,221\,31\,22 $|
+|$ \psi_S(S_\omega S+S_3),\psi(\Omega_\omega\Omega+\Omega_3) $|$ 0\,111\,21\,11\,221\,31\,22\,331,41,33 $|
+|$ \psi_S(S_\omega S2),\psi(\Omega_\omega\Omega) $|$ 0\,111\,21\,11\,221\,31\,221 $|
+|$ \psi_S(S_\omega S_2),\psi(\Omega_\omega\Omega_2) $|$ 0\,111\,21\,11\,221\,32 $|
+|$ \psi_S(S_\omega^2),\psi(\Omega_\omega^2) $|$ 0\,111\,21\,111 $|
+|$ \psi_S(S_\omega^3),\psi(\Omega_\omega^3) $|$ 0\,111\,21\,21\,111 $|
+|$ \psi_S(S_\omega^S),\psi(\Omega_\omega^\Omega) $|$ 0\,111\,21\,31 $|
+|$ \psi_S(S_\omega^{S_\omega}),\psi(\Omega_\omega^{\Omega_\omega}) $|$ 0\,111\,21\,31\,111 $|
+|$ \psi_S(S_{\omega+1}),\psi(\Omega_{\omega+1}) $|$ 0\,111\,21\,32 $|
+|$ \psi_S(S_{\omega2}),\psi(\Omega_{\omega2}) $|$ 0\,111\,21\,321 $|
+|$ \psi_S(S_{\omega^2}),\psi(\Omega_{\omega^2}) $|$ 0\,111\,211 $|
+|$ \psi_S(S_{\omega^3}),\psi(\Omega_{\omega^3}) $|$ 0\,111\,211\,211 $|
+|$ \psi_S(S_{\omega^\omega}),\psi(\Omega_{\omega^\omega}) $|$ 0\,111\,211\,3 $|
+|$ \psi_S(S_S),\psi(\Omega_\Omega) $|$ 0\,111\,211\,31 $|
+|$ \psi_S(\psi_{\sigma S}(S_{\sigma S+1}^2)),\psi(\Iota) $|$ 0\,111\,211\,31\,2 $|
+|$ \psi_S(\psi_{\sigma S}(S_{\sigma S+1}^2)+) $|$ 0\,111\,211\,31\,2\,111\,211\,31\,2 $|
+|$ \psi_S(\psi_{\sigma S}(S_{\sigma S+1}^2)+) $|$ 0\,111\,211\,31\,21\,321 $|
+|$ \psi_S(\psi_{\sigma S}(S_{\sigma S+1}^2)+) $|$ 0\,111\,211\,31\,21\,321\,421 $|
+|$ \psi_S(\psi_{\sigma S}(S_{\sigma S+1}^2)+) $|$  $|
 |$  $|$  $|
 |$  $|$  $|
 |$  $|$  $|
