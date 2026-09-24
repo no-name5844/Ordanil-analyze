@@ -58,30 +58,30 @@
 |$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\sigma S)) $|$ 111\,222\,322\,42\,3 $|
 |$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S))) $|$ 111\,222\,322\,42\,322\,42\,3 $|
 |$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2))) $|$ 111\,222\,322\,421 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2+1))) $|$ 111\,222\,322\,421\,322 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2+\psi_{S_{\sigma S+1}}(\sigma S_2+1)))) $|$ 111\,222\,322\,421\,5 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2+\psi_{S_{\sigma S+1}}(\sigma S_2+\sigma S)))) $|$ 111\,222\,322\,421\,52\,3 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2+\psi_{S_{\sigma S+1}}(\sigma S_2+\psi_{S_{\sigma S+1}}(\sigma S_2))))) $|$ 111\,222\,322\,421\,521 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2+S_{\sigma S+1}))) $|$ 111\,222\,322\,421\,53 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2+\psi_{S_{\sigma S+2}}(\sigma S_2)))) $|$ 111\,222\,322\,421\,531 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}*\psi_{S_{\sigma S+1}}(\sigma S_2+S_{\sigma S+\omega}))) $|$ 111\,222\,322\,421\,532 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}^2)) $|$ 111\,222\,322\,422 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(\sigma S_2)) $|$ 111\,222\,33 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(\psi_{S_{\sigma S_2+1}}(\sigma S_3))) $|$ 111\,222\,331 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1})) $|$ 111\,222\,331\,44 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(\psi_{S_{\sigma S_2+1}}(S_{\sigma S_2+1})+1))) $|$ 111\,222\,331\,44\,322 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(\psi_{S_{\sigma S_2+1}}(S_{\sigma S_2+1})+\sigma S))) $|$ 111\,222\,331\,44\,322\,42\,3 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(\psi_{S_{\sigma S_2+1}}(S_{\sigma S_2+1})+S_{\sigma S+1}))) $|$ 111\,222\,331\,44\,322\,422 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(\psi_{S_{\sigma S_2+1}}(S_{\sigma S_2+1})2))) $|$ 111\,222\,331\,44\,322\,43 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(\psi_{S_{\sigma S_2+1}}(S_{\sigma S_2+1}+1)))) $|$ 111\,222\,331\,44\,322\,43\,5 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(\psi_{S_{\sigma S_2+1}}(S_{\sigma S_2+1}+\psi_{S_{\sigma S_2+1}}(\sigma S_3))))) $|$ 111\,222\,331\,44\,322\,431 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{\sigma_2}(S_{\sigma S_2+1}))) $|$ 111\,222\,331\,44\,33 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}+\psi_{S_{\sigma S_2+1}}(\sigma S_3))) $|$ 111\,222\,331\,44\,331 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S_2+1}2)) $|$ 111\,222\,331\,44\,44 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(\psi_{S_{\sigma S_3+1}}(\sigma S_4))) $|$ 111\,222\,331\,441 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(\sigma S_\omega)) $|$ 111\,222\,332 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(\sigma^2 S)) $|$ 111\,222\,333 $|
-|$ \psi_S(\sigma S+\psi_{\sigma S}(\sigma^\omega S)) $|$ 111\,2221 $|
+|$ \psi_S(\sigma S+\psi_{\psi_{\sigma S}(S_{\sigma S+1}^2)}(\sigma S+1)) $|$ 111\,222\,322\,421\,321\,43 $|
+|$ \psi_S(\sigma S+\psi_{\psi_{\sigma S}(S_{\sigma S+1}^2)}(\sigma S+\omega^2)) $|$ 111\,222\,322\,421\,321\,432\,532 $|
+|$ \psi_S(\sigma S+\psi_{\psi_{\sigma S}(S_{\sigma S+1}^2)}(\sigma S+S)) $|$ 111\,222\,322\,421\,321\,432\,532\,63\,5 $|
+|$ \psi_S(\sigma S+\psi_{\psi_{\sigma S}(S_{\sigma S+1}^2)}(\sigma S+\psi_{\psi_{\sigma S}(S_{\sigma S+1}^2)}(\sigma S))) $|$ 111\,222\,322\,421\,321\,432\,532\,631 $|
+|$ \psi_S(\sigma S+\psi_{\sigma S}(S_{\sigma S+1}^2)) $|$ 111\,222\,322\,421\,322 $|
+|$  $|$ 111\,222\,322\,421\,531 $|
+|$  $|$ 111\,222\,322\,421\,532 $|
+|$  $|$ 111\,222\,322\,422 $|
+|$  $|$ 111\,222\,33 $|
+|$  $|$ 111\,222\,331 $|
+|$  $|$ 111\,222\,331\,44 $|
+|$  $|$ 111\,222\,331\,44\,322 $|
+|$  $|$ 111\,222\,331\,44\,322\,42\,3 $|
+|$  $|$ 111\,222\,331\,44\,322\,422 $|
+|$  $|$ 111\,222\,331\,44\,322\,43 $|
+|$  $|$ 111\,222\,331\,44\,322\,43\,5 $|
+|$  $|$ 111\,222\,331\,44\,322\,431 $|
+|$  $|$ 111\,222\,331\,44\,33 $|
+|$  $|$ 111\,222\,331\,44\,331 $|
+|$  $|$ 111\,222\,331\,44\,44 $|
+|$  $|$ 111\,222\,331\,441 $|
+|$  $|$ 111\,222\,332 $|
+|$  $|$ 111\,222\,333 $|
+|$  $|$ 111\,2221 $|
 |$ \psi_S(\sigma S2) $|$ 1111 $|
 |$ \psi_S(\sigma S2+\psi_S(\sigma S)) $|$ 1111\,211 $|
 |$ \psi_S(\sigma S2+\psi_S(\sigma S2)) $|$ 1111\,2111 $|

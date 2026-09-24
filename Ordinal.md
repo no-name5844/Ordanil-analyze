@@ -4,7 +4,7 @@
 对于 $\alpha,\beta\in On \cup \Pi_1$ 有:
 - 加法：
 - - $\alpha+0=\alpha $
-- - $expand(\alpha+\beta,n)=\alpha+expand(\beta,n)$
+- - $(\alpha+\beta,n)=\alpha+expand(\beta,n)$
 - 乘法：
 - - $\alpha 0=0$
 - - $expand(\alpha\beta,n)=\alpha expand(\beta,n)$

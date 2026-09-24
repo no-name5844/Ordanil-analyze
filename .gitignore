@@ -1,1 +1,7 @@
 Analysis/temp/
+*.pdf
+*.synctex.gz
+*.ux
+*.fdb_latexmk
+*.log
+*.fls
