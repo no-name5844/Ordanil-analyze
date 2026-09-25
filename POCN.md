@@ -5,7 +5,7 @@ $$
 \forall\alpha,\beta\in\mathrm{Exp}\Rightarrow \alpha+\beta\in \mathrm{Exp}\\
 \psi_X(0)=B\\
 \psi_X(\alpha+1)=\psi_X(\alpha)*\omega\\
-\psi_X(h(Y))=\psi_X(\alpha \rightarrow h(\psi_Y(\alpha))fp.) ,\lnot(isProjection(h(Y),X)\lor\exist\gamma(\gamma<X\land f(\psi_\gamma(g(X)))=h(X)))
+\psi_X(h(X))=\alpha \rightarrow \psi_Y(h(\alpha))fp.
 \\
 \psi_X(\alpha)=sup\Set{\psi_X(\beta)\mid \beta \in \alpha\land(\lnot \exist \mu(\alpha=\mu+1))},isProjection(\alpha,X),\alpha\in\mathrm{Exp}\\
 \forall\alpha\forall\beta(isProjection(\alpha,X)\land isProjection(\beta,X)\to isProjection(\alpha+\beta,X))
