@@ -7,7 +7,7 @@ $$
 \psi_X(\alpha+1)=\psi_X(\alpha)*\omega\\
 \psi_X(h(X))=\alpha \rightarrow \psi_Y(h(\alpha))fp.
 \\
-\psi_X(\alpha)=sup\Set{\psi_X(\beta)\mid \beta \in \alpha\land(\lnot \exist \mu(\alpha=\mu+1))},isProjection(\alpha,X),\alpha\in\mathrm{Exp}\\
+\psi_X(\alpha)=\sup\{\psi_X(\alpha_n)\mid \exists{a_n}((a_0=0)\land \forall n((a_{n+1}>a_n)\land(\psi_X(\alpha_{n+1}>\psi_X(\alpha_n))))\ ) \},isProjection(\alpha,X)\\
 \forall\alpha\forall\beta(isProjection(\alpha,X)\land isProjection(\beta,X)\to isProjection(\alpha+\beta,X))
 $$
 ## 2. n阶投影

@@ -10,12 +10,10 @@
 \section{通用}
 \begin{align*}
 &\forall\alpha,\beta\in\mathrm{Exp}\Rightarrow\alpha+\beta\in\mathrm{Exp}\\
-&\psi_X(0)=B\\
-&\psi_X(\alpha+1)=\psi_X(\alpha)*\omega\\
-&\psi_X(h(X))=\alpha\rightarrow\psi_X(h(\alpha))fp.\\
-&\qquad\lnot(isProjection(h(X),X)\lor\exists\gamma(\gamma<X\land f(\psi_\gamma(g(X)))=h(X)))\\
-&\psi_X(\alpha)=\sup\{\psi_X(\beta)\mid\beta\in\alpha\land(\lnot\exists\mu(\alpha=\mu+1))\},\\
-&\qquad isProjection(\alpha,X),\ \alpha\in\mathrm{Exp}\\
+&1.\psi_X(0)=B\\
+&2.\psi_X(\alpha+1)=\psi_X(\alpha)*\omega\\
+&3.\psi_X(\alpha)=\sup\{\psi_X(\alpha_n)\mid \exists{a_n}((a_0=0)\land \forall n((a_{n+1}>a_n)\land(\psi_X(\alpha_{n+1}>\psi_X(\alpha_n))))\ ) \},isProjection(\alpha,X)\\
+&4.\psi_X(h(X))=\alpha\rightarrow\psi_X(h(\alpha))fp.\\
 &\forall\alpha\forall\beta(isProjection(\alpha,X)\land isProjection(\beta,X)\to isProjection(\alpha+\beta,X))
 \end{align*}
 
